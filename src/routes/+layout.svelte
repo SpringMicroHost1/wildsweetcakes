@@ -51,9 +51,9 @@
     <img
         class="full-logo"
         src="/src/lib/assets/images/logo.png"
-        alt="Dillman Facial and Oral Surgery Home Page"
+        alt="Wild Sweet Cakes Home Page"
     />
-    <h1>Dillman Facial and Oral Surgery</h1>
+    <h1>Wild Sweet Cakes</h1>
 </a>
 <h3 class="phone-button-container">
     <!-- <span class="link" on:click={() => ($requestAppointmentOpen = true)} on:keydown={(e) => {if(e.key==="Enter")($requestAppointmentOpen = true)}}
@@ -128,7 +128,7 @@
                                 </div>
                                 Looking for a healthy, beautiful smile? 
                                 Schedule an appointment with <strong
-                                    >Dillman Facial and Oral Surgery</strong
+                                    >Wild Sweet Cakes</strong
                                 >. Call us at
                                 <strong class="non-breaking">
                                     <i class="fas fa-phone-alt" />
@@ -643,10 +643,10 @@
             </div>
             <address>
                 <a class="link"
-                    href="https://www.google.com/maps/place/Dillman+Facial+and+Oral+Surgery/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188"
+                    href="https://www.google.com/maps/place/Wild+Sweet+Cakes/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188"
                 >
                     <i class="fas fa-map-marked-alt" />
-                    Dillman Facial and Oral Surgery<br />
+                    Wild Sweet Cakes<br />
                     4123 W Yellen St,<br />
                     Paysville, ID 10529
                 </a>
@@ -666,13 +666,13 @@
         </div>
         <div class="copyright">
             <a class="link" href="/" style="text-decoration:none;color:#d0d0d0">
-                &copy; <span id="date">{new Date().getFullYear()}</span> Dillman
-                Facial and Oral Surgery. All rights reserved.
+                &copy; <span id="date">{new Date().getFullYear()}</span> Wild
+                Sweet Cakes. All rights reserved.
             </a>
         </div>
         <div class="column">
-            <a class="link" href="mailto:rob@dillmanoralsurgery.com">
-                rob@dillmanoralsurgery.com
+            <a class="link" href="mailto:stacey@wildsweetcakes.com">
+                stacey@wildsweetcakes.com
             </a>
         </div>
     </div>

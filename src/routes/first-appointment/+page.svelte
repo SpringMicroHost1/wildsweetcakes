@@ -4,10 +4,10 @@
     import firstAppointment from "$lib/assets/images/first-appointment.jpg";
 </script>
 <svelte:head>
-    <title>First Appointment | Dillman Facial and Oral Surgery</title>
+    <title>First Appointment | Wild Sweet Cakes</title>
     <meta
         name="description"
-        content="At Dillman Facial and Oral Surgery, we are
+        content="At Wild Sweet Cakes, we are
         committed to treating you and your loved ones in a caring
         atmosphere."
     />

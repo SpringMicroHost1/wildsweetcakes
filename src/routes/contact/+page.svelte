@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>Contact | Dillman Facial and Oral Surgery</title>
+    <title>Contact | Wild Sweet Cakes</title>
     <meta
         name="description"
         content="Contact us if you have questions or feedback. We'd love to hear from you!"
@@ -27,8 +27,8 @@
                 <i class="fas fa-map-marked-alt"></i>
                 <span>Address: </span>
                 <span class="address">
-                    <a class="link" href="https://www.google.com/maps/place/Dillman+Facial+and+Oral+Surgery/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188">
-                        Dillman Facial and Oral Surgery<br />
+                    <a class="link" href="https://www.google.com/maps/place/Wild+Facial+and+Oral+Surgery/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188">
+                        Wild Sweet Cakes<br />
                         4123 W Yellen St,<br />
                         Paysville, ID 10529
                     </a>
@@ -50,8 +50,8 @@
                 <i class="fas fa-envelope"></i>
                 <span>Email: </span>
                 <span>
-                    <a class="link" href="mailto:rob@dillmanoralsurgery.com">
-                    rob@dillmanoralsurgery.com
+                    <a class="link" href="mailto:stacey@wildsweetcakes.com">
+                    stacey@wildsweetcakes.com
                     </a>
                 </span>
             </div>

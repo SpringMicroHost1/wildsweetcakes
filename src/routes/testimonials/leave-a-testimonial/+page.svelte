@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>Leave a Testimonial | Dillman Facial and Oral Surgery</title>
+    <title>Leave a Testimonial | Wild Sweet Cakes</title>
     <meta
         name="description"
         content="Have you received treatment from us before? Leave a review 

@@ -2,7 +2,7 @@
     import privacyPolicy from "$lib/assets/images/privacy-policy.jpg";
 </script>
 <svelte:head>
-    <title>Privacy Policy | Dillman Facial and Oral Surgery</title>
+    <title>Privacy Policy | Wild Sweet Cakes</title>
     <meta
         name="description"
         content="We value our patients' privacy, both inside and outside the office.

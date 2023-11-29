@@ -8,19 +8,19 @@
 <section class="sidebar column">
     <!-- Mission Statement -->
     <blockquote class="mission-statement">
-        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;At Dillman Facial and Oral Surgery, we are committed to treating you and your loved ones in a caring atmosphere.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
+        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;At Wild Sweet Cakes, we are committed to treating you and your loved ones in a caring atmosphere.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
     </blockquote>
 
-    <!-- Dr. Dillman Profile -->
+    <!-- Dr. Wild Profile -->
     <div class="person">
         <!-- MISSING IMAGE -->
-        <!-- dr-dillman.jpg -->
-        <img src="/src/lib/assets/images/doctor-1.jpg" alt="Dr. Dillman"/>
+        <!-- dr-wild.jpg -->
+        <img src="/src/lib/assets/images/doctor-1.jpg" alt="Dr. Wild"/>
         <div class="column">
-            <h2>Dr. Dillman</h2>
+            <h2>Dr. Wild</h2>
             <p>
                 Facial and Oral Surgeon, Dr.
-                Dillman, has extensive training in oral and maxillofacial surgery,
+                Wild, has extensive training in oral and maxillofacial surgery,
                 including general anesthesia, wisdom teeth, dental implants and bone
                 grafting, botox and cosmetic fillers, reconstructive surgery for
                 oral and facial deformities and facial trauma. He has an excellent
@@ -28,12 +28,12 @@
                 especially those with significant medical problems.
                 <br />
                 <br />
-                Dr. Dillman is happy to reside in beautiful North Idaho and
+                Dr. Wild is happy to reside in beautiful North Idaho and
                 provide comprehensive Oral and Maxillofacial Surgery treatment. Dr.
-                Rob Dillman has lived in various places since growing up in
-                Idaho. A Texas native, Dr. Dillman has also lived in: Alabama,
+                Stacey Wild has lived in various places since growing up in
+                Idaho. A Texas native, Dr. Wild has also lived in: Alabama,
                 Belgium, Wisconsin, and Missouri. He met his wife while he attended
-                Brigham Young University in Utah. Dr. Dillman then enjoyed dental
+                Brigham Young University in Utah. Dr. Wild then enjoyed dental
                 school at Temple University School of Dentistry in Philadelphia
                 where he graduated Cum Laude. During dental school, he realized his
                 passion was oral and maxillofacial surgery. His residency in Oral
@@ -63,8 +63,8 @@
                 <i class="fas fa-map-marked-alt" />
                 <span>Address: </span>
                 <span class="address">
-                    <a class="link" href="https://www.google.com/maps/place/Dillman+Facial+and+Oral+Surgery/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188">
-                        Dillman Facial and Oral Surgery<br />
+                    <a class="link" href="https://www.google.com/maps/place/Wild+Facial+and+Oral+Surgery/@47.7506556,-116.7851645,17z/data=!4m5!3m4!1s0x5361c0df1c4bb8a9:0x8e04f02af49a455f!8m2!3d47.7509533!4d-116.7848188">
+                        Wild Sweet Cakes<br />
                         4123 W Yellen St,<br />
                         Paysville, ID 10529
                     </a>
@@ -84,8 +84,8 @@
                 <i class="fas fa-envelope" />
                 <span>Email: </span>
                 <span>
-                    <a class="link" href="mailto:rob@dillmanoralsurgery.com">
-                        rob@dillmanoralsurgery.com
+                    <a class="link" href="mailto:stacey@wildsweetcakes.com">
+                        stacey@wildsweetcakes.com
                     </a>
                 </span>
             </div>

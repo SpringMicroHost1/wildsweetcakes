@@ -4,18 +4,18 @@
     import bannerTools from "$lib/assets/images/banner-tools.jpg";
 </script>
 <svelte:head>
-    <title>Why Choose Us | Dillman Facial and Oral Surgery</title>
+    <title>Why Choose Us | Wild Sweet Cakes</title>
     <meta
         name="description"
         content="Why choose us? Our highly qualified staff sets us apart.
             Facial and Oral Surgeon, Dr.
-            Dillman, has extensive training in oral and maxillofacial surgery,"
+            Wild, has extensive training in oral and maxillofacial surgery,"
     />
 </svelte:head>
 <div class="mostly-full column">
     <h1 class="page-header">Why Choose Us?</h1>
     <p>
-        Why choose us? What sets <b>Dillman Facial and Oral Surgery</b> apart?
+        Why choose us? What sets <b>Wild Sweet Cakes</b> apart?
     </p>
     <div class="paragraph-img-wrap">
         <div
@@ -26,7 +26,7 @@
             Our highly qualified staff sets us apart.
             <br/><br/>
             Facial and Oral Surgeon, Dr.
-            Dillman, has extensive training in oral and maxillofacial surgery,
+            Wild, has extensive training in oral and maxillofacial surgery,
             including general anesthesia, wisdom teeth, dental implants and bone
             grafting, botox and cosmetic fillers, reconstructive surgery for
             oral and facial deformities and facial trauma. He has an excellent

@@ -1,9 +1,9 @@
 <svelte:head>
-    <title>Meet Us | Dillman Facial and Oral Surgery</title>
+    <title>Meet Us | Wild Sweet Cakes</title>
     <meta
         name="description"
         content="Facial and Oral Surgeon, Dr.
-        Dillman, has extensive training in oral and maxillofacial surgery,
+        Wild, has extensive training in oral and maxillofacial surgery,
         including general anesthesia, wisdom teeth, dental implants and bone
         grafting, botox and cosmetic fillers, reconstructive surgery for
         oral and facial deformities and facial trauma"
@@ -21,13 +21,13 @@
     </p>
     <div class="person">
         <!-- MISSING IMAGE -->
-        <!-- dr-dillman.jpg -->
-        <img src="/src/lib/assets/images/doctor-1.jpg" alt="Dr. Dillman"/>
+        <!-- dr-wild.jpg -->
+        <img src="/src/lib/assets/images/doctor-1.jpg" alt="Dr. Wild"/>
         <div class="column">
-            <h2>Dr. Dillman</h2>
+            <h2>Dr. Wild</h2>
             <p>
                 Facial and Oral Surgeon, Dr.
-                Dillman, has extensive training in oral and maxillofacial surgery,
+                Wild, has extensive training in oral and maxillofacial surgery,
                 including general anesthesia, wisdom teeth, dental implants and bone
                 grafting, botox and cosmetic fillers, reconstructive surgery for
                 oral and facial deformities and facial trauma. He has an excellent
@@ -35,12 +35,12 @@
                 especially those with significant medical problems.
                 <br />
                 <br />
-                Dr. Dillman is happy to reside in beautiful North Idaho and
+                Dr. Wild is happy to reside in beautiful North Idaho and
                 provide comprehensive Oral and Maxillofacial Surgery treatment. Dr.
-                Rob Dillman has lived in various places since growing up in
-                Idaho. A Texas native, Dr. Dillman has also lived in: Alabama,
+                Stacey Wild has lived in various places since growing up in
+                Idaho. A Texas native, Dr. Wild has also lived in: Alabama,
                 Belgium, Wisconsin, and Missouri. He met his wife while he attended
-                Brigham Young University in Utah. Dr. Dillman then enjoyed dental
+                Brigham Young University in Utah. Dr. Wild then enjoyed dental
                 school at Temple University School of Dentistry in Philadelphia
                 where he graduated Cum Laude. During dental school, he realized his
                 passion was oral and maxillofacial surgery. His residency in Oral

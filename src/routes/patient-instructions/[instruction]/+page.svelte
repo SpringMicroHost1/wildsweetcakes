@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.title} | Dillman Facial and Oral Surgery</title>
+	<title>{data.title} | Wild Sweet Cakes</title>
     <meta name="description" content={data.metaDescription}>
 </svelte:head>
 

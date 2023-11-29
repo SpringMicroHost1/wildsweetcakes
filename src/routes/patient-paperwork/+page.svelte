@@ -4,10 +4,10 @@
 </script>
 
 <svelte:head>
-    <title>Patient Paperwork | Dillman Facial and Oral Surgery</title>
+    <title>Patient Paperwork | Wild Sweet Cakes</title>
     <meta name="description" content="
     The first step towards a beautiful, healthy smile
-    is to schedule an appointment with Dillman Facial
+    is to schedule an appointment with Wild Facial
     and Oral Surgery. Please contact our following
     office by phone 208-512-2957 or complete the 
     appointment request form below.

@@ -6,10 +6,10 @@
     import bannerBuilding from "$lib/assets/images/banner-smile.jpg";
 </script>
 <svelte:head>
-    <title>Mission Statement | Dillman Facial and Oral Surgery</title>
+    <title>Mission Statement | Wild Sweet Cakes</title>
     <meta
         name="description"
-        content="At Dillman Facial and Oral Surgery, we are
+        content="At Wild Sweet Cakes, we are
         committed to treating you and your loved ones in a caring
         atmosphere."
     />
@@ -17,7 +17,7 @@
 <div class="mostly-full column">
     <h1 class="page-header">Mission Statement</h1>
     <blockquote class="mission-statement">
-        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;At Dillman Facial and Oral Surgery, we are committed to treating you and your loved ones in a caring atmosphere.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
+        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;At Wild Sweet Cakes, we are committed to treating you and your loved ones in a caring atmosphere.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
     </blockquote>
     <div class="paragraph-img-wrap">
         <div
@@ -27,7 +27,7 @@
         <p>
             To do this, we offer general anesthesia for your comfort
             during your surgical procedure. Facial and Oral Surgeon, Dr.
-            Dillman, has extensive training in oral and maxillofacial surgery,
+            Wild, has extensive training in oral and maxillofacial surgery,
             including general anesthesia, wisdom teeth, dental implants and bone
             grafting, botox and cosmetic fillers, reconstructive surgery for
             oral and facial deformities and facial trauma. He has an excellent

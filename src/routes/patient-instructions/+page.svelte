@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Patient Instructions | Dillman Facial and Oral Surgery</title>
+	<title>Patient Instructions | Wild Sweet Cakes</title>
     <meta name="description" content="Below is a 
     general guideline of procedure-specific surgical 
     instructions to follow prior to surgery, as well as 
@@ -11,7 +11,7 @@
         To achieve the most effective results when undergoing any facial or oral operation,
         it's important that you know how to care for yourself 
         both before and after the procedure. We provide patients 
-        with both pre and post operative instructions at <b>Dillman Facial and Oral Surgery</b> to 
+        with both pre and post operative instructions at <b>Wild Sweet Cakes</b> to 
         help them ensure the results they desire, including a quick and 
         comfortable recovery period.
     

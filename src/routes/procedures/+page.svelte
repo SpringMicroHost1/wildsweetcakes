@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Procedures | Dillman Facial and Oral Surgery</title>
+	<title>Procedures | Wild Sweet Cakes</title>
     <meta name="description" content="Looking for details on what care you'll be receiving? Browse our most common procedures to get the information you need.">
 </svelte:head>
 
@@ -12,8 +12,8 @@
     <span class="not-phone">208-512-2957</span>
     or email us at
     <span>
-        <a class="link" href="mailto:rob@dillmanoralsurgery.com">
-            rob@dillmanoralsurgery.com
+        <a class="link" href="mailto:stacey@wildsweetcakes.com">
+            stacey@wildsweetcakes.com
         </a>
     </span>
 </div>

@@ -4,10 +4,10 @@
     import insurance from "$lib/assets/images/insurance.jpg";
 </script>
 <svelte:head>
-    <title>Insurance | Dillman Facial and Oral Surgery</title>
+    <title>Insurance | Wild Sweet Cakes</title>
     <meta
         name="description"
-        content="At Dillman Facial and Oral Surgery, we are
+        content="At Wild Sweet Cakes, we are
         committed to treating you and your loved ones in a caring
         atmosphere."
     />
@@ -21,7 +21,7 @@
         />
         <p>
             Navigating insurance can sometimes be one of the most stressful and confusing
-            parts of a health operation. At <b>Dillman Facial and Oral Surgery</b>,
+            parts of a health operation. At <b>Wild Sweet Cakes</b>,
             we keep you informed every step of the way. Call our agents at
             <strong class="non-breaking">
                 <i class="fas fa-phone-alt" />
