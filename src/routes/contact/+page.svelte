@@ -1,5 +1,5 @@
 <script>
-    import bannerTools from "$lib/assets/images/banner-tools.jpg";
+    import bannerElephants from "$lib/assets/images/banner-elephants.jpeg";
     // import requestAppointmentOpen from "$lib/requestAppointment";
 </script>
 
@@ -18,7 +18,7 @@
 <div class="paragraph-img-wrap">
     <div
         class="wrap-front-img"
-        style={`background-image: url('${bannerTools}'); background-position: center 30%`}
+        style={`background-image: url('${bannerElephants}'); background-position: center 30%`}
     />
     <div class="contact-container">
         <div class="contact-column">
@@ -39,11 +39,11 @@
                 <i class="fas fa-phone-alt"></i>
                 <span>Phone: </span>
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957">
-                        208-512-2957
+                    <a class="link" href="tel:208-964-1707">
+                        208-964-1707
                     </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
             </div>
             <!-- Email -->
             <div class="contact-row">

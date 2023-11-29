@@ -24,9 +24,9 @@
             <strong class="non-breaking">
                 <i class="fas fa-phone-alt" />
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957">208-512-2957 </a>
+                    <a class="link" href="tel:208-964-1707">208-964-1707 </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
             </strong>
             if you have any questions.
         </p>

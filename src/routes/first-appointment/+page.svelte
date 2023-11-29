@@ -7,9 +7,7 @@
     <title>First Appointment | Wild Sweet Cakes</title>
     <meta
         name="description"
-        content="At Wild Sweet Cakes, we are
-        committed to treating you and your loved ones in a caring
-        atmosphere."
+        content="Welcome to Wild Sweet Cakes! I provide a variety of scratch baked goods for the Coeur d’Alene/Spokane vicinity. "
     />
 </svelte:head>
 <div class="mostly-full column">

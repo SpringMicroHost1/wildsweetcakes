@@ -7,9 +7,7 @@
     <title>Insurance | Wild Sweet Cakes</title>
     <meta
         name="description"
-        content="At Wild Sweet Cakes, we are
-        committed to treating you and your loved ones in a caring
-        atmosphere."
+        content="Welcome to Wild Sweet Cakes! I provide a variety of scratch baked goods for the Coeur d’Alene/Spokane vicinity."
     />
 </svelte:head>
 <div class="mostly-full column">
@@ -26,9 +24,9 @@
             <strong class="non-breaking">
                 <i class="fas fa-phone-alt" />
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957">208-512-2957 </a>
+                    <a class="link" href="tel:208-964-1707">208-964-1707 </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
             </strong>
             if you have any questions. Below is a list of insurance companies and payment
             plans that we accept.
@@ -47,9 +45,9 @@
         <strong class="non-breaking">
             <i class="fas fa-phone-alt" />
             <span class="phone">
-                <a class="link" href="tel:208-512-2957">208-512-2957 </a>
+                <a class="link" href="tel:208-964-1707">208-964-1707 </a>
             </span>
-            <span class="not-phone">208-512-2957</span>
+            <span class="not-phone">208-964-1707</span>
         </strong>.
     </p>
 </div>

@@ -6,11 +6,9 @@
 
     import { onMount, onDestroy } from "svelte";
     import { switchTo, startInterval, stopInterval } from "./+page";
-    // MISSING IMAGE
-    // banner-building.jpg
-    import bannerBuilding from "$lib/assets/images/banner-smile.jpg";
-    import bannerTools from "$lib/assets/images/banner-tools.jpg";
-    import bannerSmile from "$lib/assets/images/banner-smile.jpg";
+    import bannerWedding from "$lib/assets/images/banner-wedding.jpeg";
+    import bannerElephants from "$lib/assets/images/banner-elephants.jpeg";
+    import bannerMiniMouse from "$lib/assets/images/banner-mini-mouse.jpeg";
     
     
     
@@ -21,20 +19,11 @@
 
 <svelte:head>
     <title>Wild Sweet Cakes</title>
-    <meta name="description" content="
-        At Wild Sweet Cakes in Coeur d’Alene, Idaho, we are
-        committed to treating you and your loved ones in a caring
-        atmosphere. To do this, we offer general anesthesia for your comfort
-        during your surgical procedure. Facial and Oral Surgeon, Dr.
-        Wild, has extensive training in oral and maxillofacial surgery,
-        including general anesthesia, wisdom teeth, dental implants and bone
-        grafting, botox and cosmetic fillers, reconstructive surgery for
-        oral and facial deformities and facial trauma.
-    ">
+    <meta name="description" content="Welcome to Wild Sweet Cakes! I provide a variety of scratch baked goods for the Coeur d’Alene/Spokane vicinity. ">
 </svelte:head>
 
 <div id="banner">
-    <article style={`background-image: url('${bannerBuilding}'); background-position: center;`} class="visible top">
+    <article style={`background-image: url('${bannerWedding}'); background-position: center;`} class="visible top">
         <div class="inner">
             <div class="features">
                 <a href="./testimonials" class="accent1 alt link">
@@ -44,7 +33,7 @@
             </div>
         </div>
     </article>
-    <article style={`background-image: url('${bannerTools}'); background-position: center;`}>
+    <article style={`background-image: url('${bannerElephants}'); background-position: center;`}>
         <div class="inner">
             <div class="features">
                 <a href="./contact" class="accent1 alt link">
@@ -68,7 +57,7 @@
             </div>
         </div>
     </article> -->
-    <article style={`background-image: url('${bannerSmile}'); background-position: center;`}>
+    <article style={`background-image: url('${bannerMiniMouse}'); background-position: center;`}>
         <div class="inner">
             <div class="features">
                 <a href="./first-appointment" class="accent1 alt link">
@@ -109,38 +98,17 @@
 <div class="paragraph-img-wrap">
     <div
         class="wrap-front-img"
-        style={`background-image: url('${bannerBuilding}');`}
+        style={`background-image: url('${bannerWedding}'); background-position: center center;`}
     />
     <div>
         <p>
-            At Wild Sweet Cakes in Coeur d’Alene, Idaho, we are
-            committed to treating you and your loved ones in a caring
-            atmosphere. To do this, we offer general anesthesia for your comfort
-            during your surgical procedure. Facial and Oral Surgeon, Dr.
-            Wild, has extensive training in oral and maxillofacial surgery,
-            including general anesthesia, wisdom teeth, dental implants and bone
-            grafting, botox and cosmetic fillers, reconstructive surgery for
-            oral and facial deformities and facial trauma. He has an excellent
-            background in medicine and can appropriately treat each patient,
-            especially those with significant medical problems. Our staff are
-            here to assist you and help you feel at ease regarding each phase of
-            your oral and maxillofacial surgery treatment. We are pleased you
-            have chosen us as your facial and oral surgeon in Coeur d’Alene and
-            we look forward to caring for you the best possible way.
+            Welcome to Wild Sweet Cakes! I provide a variety of scratch baked goods for the Coeur d’Alene/Spokane vicinity. 
         </p>
         <p>
-            Dr. Wild is happy to reside in beautiful North Idaho and
-            provide comprehensive Oral and Maxillofacial Surgery treatment. Dr.
-            Stacey Wild has lived in various places since growing up in
-            Idaho. A Texas native, Dr. Wild has also lived in: Alabama,
-            Belgium, Wisconsin, and Missouri. He met his wife while he attended
-            Brigham Young University in Utah. Dr. Wild then enjoyed dental
-            school at Temple University School of Dentistry in Philadelphia
-            where he graduated Cum Laude. During dental school, he realized his
-            passion was oral and maxillofacial surgery. His residency in Oral
-            and Maxillofacial Surgery was in Loma Linda, California. He loves
-            living in Coeur d’Alene with his wife, Tamar, and four children
-            (Emma, Abigail, Kyle and Zac).
+            Wild Sweet Cakes started in my kitchen baking for friends and family. Soon my friends and family started referring me to their friends and family. I am self-taught baker that loves how sweet treats make a special occasion even more special. Baking brings me so much joy and I love being a part of my customer’s special day. 
+        </p>
+        <p>
+            I bake anything from my signature cupcakes and cakes to French macarons, pies, cookies and cheesecakes. I use “real” ingredients! No margarine, or imitation flavorings in these delicious baked creations.
         </p>
     </div>
 </div>
@@ -239,7 +207,7 @@
 <div class="paragraph-img-wrap">
     <div
         class="wrap-front-img"
-        style={`background-image: url('${bannerTools}');`}
+        style={`background-image: url('${bannerElephants}');`}
     />
     <div class="contact-container">
         <div class="contact-column">
@@ -260,9 +228,9 @@
                 <i class="fas fa-phone-alt" />
                 <span>Phone: </span>
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957"> 208-512-2957 </a>
+                    <a class="link" href="tel:208-964-1707"> 208-964-1707 </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
             </div>
             <!-- Email -->
             <div class="contact-row">

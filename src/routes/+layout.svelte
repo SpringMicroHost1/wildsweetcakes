@@ -52,6 +52,7 @@
         class="full-logo"
         src="/src/lib/assets/images/logo.png"
         alt="Wild Sweet Cakes Home Page"
+        style="margin-right:20px"
     />
     <h1>Wild Sweet Cakes</h1>
 </a>
@@ -60,8 +61,8 @@
         >Request an Appointment</span
     >
     <span>- or -</span> -->
-    <a class="phone-button link" href="tel:208-512-2957"
-        ><i class="fas fa-phone-alt" /> (208) 667-0824</a
+    <a class="phone-button link" href="tel:208-964-1707"
+        ><i class="fas fa-phone-alt" /> (208) 964-1707</a
     >
 </h3>
 
@@ -133,9 +134,9 @@
                                 <strong class="non-breaking">
                                     <i class="fas fa-phone-alt" />
                                     <span class="phone">
-                                        <a class="link" href="tel:208-512-2957">208-512-2957 </a>
+                                        <a class="link" href="tel:208-964-1707">208-964-1707 </a>
                                     </span>
-                                    <span class="not-phone">208-512-2957</span>
+                                    <span class="not-phone">208-964-1707</span>
                                 </strong>
                                 or complete the form below to request an appointment. Our
                                 representative will contact you to confirm
@@ -622,7 +623,7 @@
     <div class="inner">
         <div class="row">
             <div class="social-media">
-                <a class="link" href="https://facebook.com">
+                <a class="link" href="https://facebook.com/wildsweetcakes">
                     <img
                         src="/src/lib/assets/images/facebook-square-brands.svg"
                         alt="Facebook"
@@ -654,9 +655,9 @@
             <div>
                 <i class="fas fa-phone-alt" />
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957"> 208-512-2957 </a>
+                    <a class="link" href="tel:208-964-1707"> 208-964-1707 </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
                 <!-- <span class="link"
                     on:click={() => ($requestAppointmentOpen = true)}
                     on:keydown={(e)=>{if(e.key==="Enter")($requestAppointmentOpen = true)}}

@@ -8,38 +8,24 @@
 <section class="sidebar column">
     <!-- Mission Statement -->
     <blockquote class="mission-statement">
-        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;At Wild Sweet Cakes, we are committed to treating you and your loved ones in a caring atmosphere.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
+        <span class="quote-mark">&OpenCurlyDoubleQuote;</span>&NonBreakingSpace;I am self-taught baker that loves how sweet treats make a special occasion even more special.&NonBreakingSpace;<span class="quote-mark">&CloseCurlyDoubleQuote;</span>
     </blockquote>
 
-    <!-- Dr. Wild Profile -->
+    <!-- Stacey Wild Profile -->
     <div class="person">
         <!-- MISSING IMAGE -->
         <!-- dr-wild.jpg -->
-        <img src="/src/lib/assets/images/doctor-1.jpg" alt="Dr. Wild"/>
+        <img src="/src/lib/assets/images/logo.png" alt="Stacey Wild"/>
         <div class="column">
-            <h2>Dr. Wild</h2>
+            <h2>Stacey Wild</h2>
             <p>
-                Facial and Oral Surgeon, Dr.
-                Wild, has extensive training in oral and maxillofacial surgery,
-                including general anesthesia, wisdom teeth, dental implants and bone
-                grafting, botox and cosmetic fillers, reconstructive surgery for
-                oral and facial deformities and facial trauma. He has an excellent
-                background in medicine and can appropriately treat each patient,
-                especially those with significant medical problems.
+                Welcome to Wild Sweet Cakes! I provide a variety of scratch baked goods for the Coeur d’Alene/Spokane vicinity.
                 <br />
                 <br />
-                Dr. Wild is happy to reside in beautiful North Idaho and
-                provide comprehensive Oral and Maxillofacial Surgery treatment. Dr.
-                Stacey Wild has lived in various places since growing up in
-                Idaho. A Texas native, Dr. Wild has also lived in: Alabama,
-                Belgium, Wisconsin, and Missouri. He met his wife while he attended
-                Brigham Young University in Utah. Dr. Wild then enjoyed dental
-                school at Temple University School of Dentistry in Philadelphia
-                where he graduated Cum Laude. During dental school, he realized his
-                passion was oral and maxillofacial surgery. His residency in Oral
-                and Maxillofacial Surgery was in Loma Linda, California. He loves
-                living in Coeur d’Alene with his wife, Tamar, and four children
-                (Emma, Abigail, Kyle and Zac).
+                Wild Sweet Cakes started in my kitchen baking for friends and family. Soon my friends and family started referring me to their friends and family. I am self-taught baker that loves how sweet treats make a special occasion even more special. Baking brings me so much joy and I love being a part of my customer’s special day.
+                <br />
+                <br />
+                I bake anything from my signature cupcakes and cakes to French macarons, pies, cookies and cheesecakes. I use “real” ingredients! No margarine, or imitation flavorings in these delicious baked creations.
             </p>
         </div>
     </div>
@@ -75,9 +61,9 @@
                 <i class="fas fa-phone-alt" />
                 <span>Phone: </span>
                 <span class="phone">
-                    <a class="link" href="tel:208-512-2957"> 208-512-2957 </a>
+                    <a class="link" href="tel:208-964-1707"> 208-964-1707 </a>
                 </span>
-                <span class="not-phone">208-512-2957</span>
+                <span class="not-phone">208-964-1707</span>
             </div>
             <!-- Email -->
             <div class="contact-row">

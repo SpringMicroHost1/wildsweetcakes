@@ -1,7 +1,7 @@
 <script>
     // import requestAppointmentOpen from "$lib/requestAppointment";
 
-    import bannerTools from "$lib/assets/images/banner-tools.jpg";
+    import bannerElephants from "$lib/assets/images/banner-elephants.jpeg";
 </script>
 <svelte:head>
     <title>Why Choose Us | Wild Sweet Cakes</title>
@@ -20,7 +20,7 @@
     <div class="paragraph-img-wrap">
         <div
             class="wrap-front-img"
-            style={`background-image: url('${bannerTools}'); background-position: center 50%`}
+            style={`background-image: url('${bannerElephants}'); background-position: center 50%`}
         />
         <p>
             Our highly qualified staff sets us apart.
