@@ -4,7 +4,7 @@
 
     import { sortCardContainers } from "./+page";
     import { onMount } from "svelte";
-    import happyPatient from "$lib/assets/images/happy-patient.jpg";
+    import biteSized from "$lib/assets/images/wild-sweet-cakes-bite-sized.jpeg";
 
     onMount(async () => {
         sortCardContainers();
@@ -25,7 +25,7 @@
 <div class="paragraph-img-wrap">
     <div
         class="wrap-front-img"
-        style={`background-image: url('${happyPatient}'); background-position: center 30%`}
+        style={`background-image: url('${biteSized}'); background-position: center 30%`}
     />
     <p>
         Want to verify our quality care? Browse the ratings and testimonials
